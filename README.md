@@ -20,7 +20,7 @@ A visual Map of courses offered at Tufts University. Freshman year hackathon pro
 ### Backstory  
 
 
-This project was the result of the collaboration of Seth Drew, [Teddy Cleveland](https://github.com/tcclevela), and I at Tufts University's annual hackathon, sponsored by Evernote. 
+This project was the result of the collaboration of [Seth Drew](https://github.com/SethDrew), [Teddy Cleveland](https://github.com/tcclevela), and I at Tufts University's annual hackathon, sponsored by Evernote. 
 
 I came up with this idea because I'm sort of crazy in that I like to plan things way ahead, with full cognizance that plans change. In that way, it's a waste of time, but it relaxes me to have some insight into where I'm headed at any particular point in time. 
 
