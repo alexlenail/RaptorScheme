@@ -1,0 +1,39 @@
+* {z-index: 10;}
+
+
+path.link {
+  fill: none;
+  stroke: #000;
+  stroke-width: 4px;
+}
+
+circle.node {
+  stroke-width: 2px;
+}
+
+circle.node.reflexive {
+  stroke: #000 !important;
+  stroke-width: 2px;
+}
+
+text {
+  font: 12px sans-serif;
+}
+
+text.id {
+  text-anchor: middle;
+  font-weight: bold;
+}
+
+.Course_Description {
+
+  height: 100px;
+  width: 100px;
+  background-color: black;
+
+}
+
+
+
+
+
