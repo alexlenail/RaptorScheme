@@ -10,11 +10,11 @@ A visual Map of courses offered at Tufts University. Freshman year hackathon pro
 
 8/2/13 - Decided to put this on Github. Project is stil ongoing. Progress has stalled, but Teddy is learning rails at a General Assembly's Web Development Immersive, and we'll attack the problem again in the fall with a graeter range of tools. 
 
-2/24/13 - [Tufts Univeristy 2013 Hackathon](http://tuftshackathon2013.eventbrite.com/)
+2/24/13 - [Tufts Univeristy 2013 Hackathon](http://tuftshackathon2013.eventbrite.com/)  
+
 
 *** 
-  
-  
+
 ### Backstory  
 
 
